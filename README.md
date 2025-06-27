@@ -56,8 +56,6 @@ Hedefim, DGS ile mühendislik eğitimine geçiş yaparak yazılım alanında uzm
 
 ---
 
-### ✨ Küçük Bir Vibe (Minimal GIF)
-
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding">
 </div>
@@ -73,5 +71,4 @@ Hedefim, DGS ile mühendislik eğitimine geçiş yaparak yazılım alanında uzm
 
 ---
 
-> 📌 Bu profil README’si özenle hazırlanmıştır. Kendini yansıttığına inanıyorsan hemen `README.md` olarak repoya ekleyebilirsin!
 
