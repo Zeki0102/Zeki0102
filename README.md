@@ -1,16 +1,16 @@
-<h1 align="center">Merhaba, ben Zeki 👋</h1>
-<p align="center">🇹🇷 Adana'dan bir yazılım geliştiricisiyim | 🎓 Karabük Üniversitesi'nde okuyorum</p>
+<h1 align="center">Hi, I'm Zeki 👋</h1>
+<p align="center">🇹🇷 I'm a software developer from Adana, Turkey | 🎓 Studying at Karabük University</p>
 
 ---
 
-### 👨‍💻 Hakkımda
-Ben Zeki, Adana'da yaşayan ve **Karabük Üniversitesi Yenice MYO**'da eğitimine devam eden tutkulu bir yazılım geliştiricisiyim.  
-Frontend ve Backend teknolojileriyle ilgileniyor, küçük ölçekli projelerden başlayarak **tam kapsamlı web uygulamaları** geliştiriyorum.  
-Hedefim, DGS ile mühendislik eğitimine geçiş yaparak yazılım alanında uzmanlaşmak.
+### 👨‍💻 About Me
+I'm Zeki, a passionate software developer living in Adana and currently studying at **Karabük University, Yenice Vocational School**.  
+I'm interested in both Frontend and Backend technologies, and I develop **full-featured web applications** starting from small-scale projects.  
+My goal is to transfer to an engineering program through the DGS exam and specialize in software development.
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 🚀 Technologies I Use
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -27,18 +27,18 @@ Hedefim, DGS ile mühendislik eğitimine geçiş yaparak yazılım alanında uzm
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📈 GitHub Stats
 
 <div align="center">
 
-![Zeki'nin GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeki0102&show_icons=true&theme=tokyonight&hide=contribs,prs)
-![En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeki0102&layout=compact&theme=tokyonight)
+![Zeki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeki0102&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeki0102&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-### 🏆 GitHub Kupalarım
+### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -48,11 +48,11 @@ Hedefim, DGS ile mühendislik eğitimine geçiş yaparak yazılım alanında uzm
 
 ---
 
-### 🎯 Hedeflerim
-- 🔭 Freelance ve açık kaynak projelerde aktif olmak  
-- 🧠 Full-Stack becerilerimi güçlendirmek  
-- 📚 Yeni teknolojileri öğrenmek ve uygulamak  
-- 🎯 DGS ile mühendislik eğitimine geçmek
+### 🎯 My Goals
+- 🔭 Be active in freelance and open-source projects  
+- 🧠 Strengthen my full-stack development skills  
+- 📚 Learn and apply new technologies  
+- 🎯 Transfer to a software engineering program through DGS
 
 ---
 
@@ -62,13 +62,9 @@ Hedefim, DGS ile mühendislik eğitimine geçiş yaparak yazılım alanında uzm
 
 ---
 
-### 📬 Bana Ulaş
+### 📬 Contact Me
 
 📧 zekiakcakaya14@gmail.com  
-📍 Adana / Türkiye  
-📚 Karabük Üniversitesi Yenice MYO  
+📍 Adana / Turkey  
+📚 Karabük University, Yenice Vocational School  
 🔗 [LinkedIn (www.linkedin.com/in/zeki-akçakaya-5979b82a3)]  
-
----
-
-
